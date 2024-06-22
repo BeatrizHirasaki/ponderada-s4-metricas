@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zywSaEOVoQs=",
+  "dgSpecHash": "b1bUZ4qoyzI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderada-s4-metricas\\GitHub.csproj",
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderadaS4\\GitHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
   ],

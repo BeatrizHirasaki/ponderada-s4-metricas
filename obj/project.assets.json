@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderada-s4-metricas\\GitHub.csproj",
+      "projectUniqueName": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderadaS4\\GitHub.csproj",
       "projectName": "GitHub",
-      "projectPath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderada-s4-metricas\\GitHub.csproj",
+      "projectPath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderadaS4\\GitHub.csproj",
       "packagesPath": "C:\\Users\\Inteli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderada-s4-metricas\\obj\\",
+      "outputPath": "C:\\Users\\Inteli\\Documents\\GitHub\\ponderadaS4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Inteli\\AppData\\Roaming\\NuGet\\NuGet.Config",
